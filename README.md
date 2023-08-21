@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahul1227
-- 👀 I’m interested in Coding, learning new skills and having fun.
-- 🌱 I’m currently learning Andriod Development and Machine learning.
-- 💞️ I’m looking to collaborate on Youtube kind of online streaming free platform.
+- 👀 I’m interested in Coding, learning new skills, and having fun.
+- 🌱 I’m currently learning Blockchain Development.
+- 💞️ I want to be the best in the business.
 
 <!---
 Rahul1227/Rahul1227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
