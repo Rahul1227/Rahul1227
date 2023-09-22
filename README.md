@@ -1,4 +1,4 @@
-![logo](https://github.com/Rahul1227/Rahul1227/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/Rahul1227/Rahul1227/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
 <h3 align="center">A passionate Blockchain Developer</h3>
 
