@@ -17,11 +17,21 @@
 - 📫 How to reach me **rahulydv1227@gmail.com**
 - ⚡ Fun fact **I think I can binge watch whole in 1 night🌃**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/rahul-yadav1227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-yadav1227" height="30" width="40" /></a>
-  <a href="https://instagram.com/_aatish1227_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aatish1227_" height="30" width="40" /></a>
-</p>
+<div style="background-color: #0d1117; padding: 10px;">
+  <a href="https://linkedin.com/in/rahul-yadav1227" target="_blank" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_aatish1227_" target="_blank" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:rahulydv1227@gmail.com" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Email" height="30" width="30" />
+  </a>
+  <a href="https://devfolio.co/@Rahul1227" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Devfolio" height="30" width="40" />
+  </a>
+</div>
+
 <br><br>
 
 <div>
