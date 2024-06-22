@@ -32,3 +32,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul1227&show_icons=true&locale=en" alt="rahul1227" /></p>
 
+
+
+![snake gif](https://github.com/Rahul1227/Rahul1227/blob/output/github-contribution-grid-snake.svg)
