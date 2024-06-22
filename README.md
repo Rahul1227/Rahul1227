@@ -32,7 +32,7 @@
   </a>
 </div>
 
-<br><br>
+<br><br><br><br> <br>
 
 <div>
 <h2 align="center">🛠️ Languages and Technologies 🛠️</h2>
