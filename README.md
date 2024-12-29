@@ -4,7 +4,7 @@
 
 <br><br>
 
-![logo](https://github.com/Rahul1227/Rahul1227/blob/main/Github%20Banner.png)
+![logo](https://github.com/Rahul1227/Rahul1227/blob/main/Rahul%20Yadav.png)
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahul+Yadav;Together+lets+explore+Blockchain" alt="Typing SVG" />
@@ -16,8 +16,8 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 - 🚀 I'm currently working on Blockchain based Voting Web-app [Chunaav](https://github.com/Rahul1227/Chunaav)
-- 🌱 I'm currently learning **Blockchain**
-- 👥 I'm looking to collaborate on **Chunaav**
+- 🌱 I'm currently learning **Full Stack Blockchain Development **
+- 👥 I'm looking to collaborate on **Blockchain projects**
 - 💬 Ask me about **Blockchain**
 - 📫 How to reach me **rahulydv1227@gmail.com**
 - ⚡ Fun fact **I think I can binge watch whole in 1 night🌃**
